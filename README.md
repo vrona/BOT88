@@ -15,7 +15,7 @@ Min. 12 Core CPU, 1 Tesla M60 GPU
 
 
 ### Project Flow
-  Data:
+  Data:<br>
   Vision input: vrona_track_compviz.py
                 script that captures on screen, sim-racing window and preprocessed to detected and highlighted lines
                 

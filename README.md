@@ -15,7 +15,7 @@ Min. 12 Core CPU, 1 Tesla M60 GPU<br>
 
 
 ### Project Flow
-  #### Data:<br>
+  - #### Data:
   ##### Vision input: vrona_track_compviz.py<br>
   script that captures on screen, sim-racing window and preprocessed to detected and highlighted lines.
                 
@@ -25,7 +25,7 @@ Min. 12 Core CPU, 1 Tesla M60 GPU<br>
   ##### Racing line: display_of_racing_line_spainGP.ipynb<br>
   retrieve ideal racing line data from manual driving.<br>
 
-  #### Development:<br>
+  - #### Development:
   ##### Controller: pilote.py and directkeys.py<br>
   script that act (accelerate, brakes, turn left or right) via direct input on up, left, right, down PC keyboards.
   
@@ -35,6 +35,10 @@ Min. 12 Core CPU, 1 Tesla M60 GPU<br>
   ##### Agent:vrona_task.py, vrona_vision_physics.py, model_vrona_cnn.py, agent_vrona.py
   task, model, algorithm
 
+### Aditional documents
+  - Test_266episode_bot88_7_nov.ipynb (concerns one test of 266 episodes)
+  - final_RL_spainGP.csv (uses into racing_line_delta.py)
+  
 ### Test steps
 - After launching the game > change resolution to 800 x 635 in 'performances' option (needs to reboot game).<br>
 - After reboot, poised the window on the upper left (stick to top and left bound of the screen).<br>

@@ -17,7 +17,7 @@ Min. 12 Core CPU, 1 Tesla M60 GPU<br>
 ### Project Flow
   #### Data:<br>
   ##### Vision input: vrona_track_compviz.py<br>
-                script that captures on screen, sim-racing window and preprocessed to detected and highlighted lines.<br>
+  script that captures on screen, sim-racing window and preprocessed to detected and highlighted lines.
                 
   ##### Low level motion: low_level_motion_data_process_retrievement.ipynb and low_level_motion_demo.ipynb<br>
                     python client to retrieve data from Project Cars 2 API via shared memory.

@@ -20,19 +20,20 @@ Min. 12 Core CPU, 1 Tesla M60 GPU<br>
   script that captures on screen, sim-racing window and preprocessed to detected and highlighted lines.
                 
   ##### Low level motion: low_level_motion_data_process_retrievement.ipynb and low_level_motion_demo.ipynb<br>
-                    python client to retrieve data from Project Cars 2 API via shared memory.
+  python client to retrieve data from Project Cars 2 API via shared memory.
                     
   ##### Racing line: display_of_racing_line_spainGP.ipynb<br>
-               retrieve ideal racing line data from manual driving.<br>
+  retrieve ideal racing line data from manual driving.<br>
 
   #### Development:<br>
   ##### Controller: pilote.py and directkeys.py<br>
-              script that act (accelerate, brakes, turn left or right) via direct input on up, left, right, down PC keyboards.<br> 
+  script that act (accelerate, brakes, turn left or right) via direct input on up, left, right, down PC keyboards.
+  
   ##### Racing line delta:racing_line_delta.py<br>
-                    real time delta between position of racing car from racing line.<br>
+  real time delta between position of racing car from racing line.
                     
-  ##### Agent:vrona_task.py, vrona_vision_physics.py, model_vrona_cnn.py, agent_vrona.py<br>
-        Task, Model, Algorithm scripts.<br>
+  ##### Agent:vrona_task.py, vrona_vision_physics.py, model_vrona_cnn.py, agent_vrona.py
+  Task, Model, Algorithm scripts.<br>
 
 ### Test steps
 After launching the game > change resolution to 800 x 635 in 'performances' option (needs to reboot game).<br>

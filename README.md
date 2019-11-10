@@ -33,11 +33,11 @@ Min. 12 Core CPU, 1 Tesla M60 GPU<br>
   real time delta between position of racing car from racing line.
                     
   ##### Agent:vrona_task.py, vrona_vision_physics.py, model_vrona_cnn.py, agent_vrona.py
-  Task, Model, Algorithm scripts.<br>
+  task, model, algorithm
 
 ### Test steps
-After launching the game > change resolution to 800 x 635 in 'performances' option (needs to reboot game).<br>
-After reboot, poised the window on the upper left (stick to top and left bound of the screen).<br>
-Pick "private testing" in the menu.<br>
-Launch the test drive until the control pass to manual (yellow flag)<br>
-Run the 1st two cells of vrona_bot88.ipynb<br>
+- After launching the game > change resolution to 800 x 635 in 'performances' option (needs to reboot game).<br>
+- After reboot, poised the window on the upper left (stick to top and left bound of the screen).<br>
+- Pick "private testing" in the menu.<br>
+- Launch the test drive until the control pass to manual (yellow flag)<br>
+- Run the 1st two cells of vrona_bot88.ipynb<br>

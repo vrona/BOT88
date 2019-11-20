@@ -8,6 +8,7 @@ Building an agent based on deep reinforcement leaning (DDPG - Deep Deterministic
 
 ### Project Requirements
 Python > 3.6 <br>
+Keras <br>
 NumPy <br>
 Project Cars 2 license<br>
 Project Cars 2 sharedmemory.h header(cf.API)<br>

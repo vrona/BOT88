@@ -1,10 +1,10 @@
-# bot88
+# BOT88
 Self Driving Racing Car Agent
 
 ## Udacity Capstone Project - Machine Learning Nanodegree 2019
 
 ### Project Description
-Building an agent based on deep reinforcement leaning (DDPG - Deep Deterministic Policy Gradient algorithm) which learns to drive a racing car on sim-racing video game: Project cars 2 (racetrck: Barcelona Catalunya GP)
+Building an agent based on deep reinforcement leaning (DDPG - Deep Deterministic Policy Gradient algorithm) which learns to drive a racing car on sim-racing video game: Project cars 2 (racetrack: Barcelona Catalunya GP)
 
 ### Project Requirements
 Python > 3.6 <br>

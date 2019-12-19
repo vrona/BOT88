@@ -12,7 +12,7 @@ Keras <br>
 NumPy <br>
 Project Cars 2 license<br>
 Project Cars 2 sharedmemory.h header(cf.API)<br>
-Min. 12 Core CPU, 1 Tesla M60 GPU<br>
+Min. 6 Core CPU, 1 Tesla M60 GPU<br>
 
 
 ### Project Flow

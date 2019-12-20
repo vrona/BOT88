@@ -5,7 +5,7 @@ Is a Self Driving Racing Car Agent Project.
 Initial development for my Udacity Capstone project within Machine Learning Nanodegree 2019 Certification.
 
 ### bot88_DDPG_asym_AC folder
-Development more adapted to the problem to solve: how to build a simulated racing track driver that would learn to drive based on vision with the intuition of a racing line?
+Development more adapted to the problem to solve: how to build a simulated racing track driver that would learn to drive based on vision with the intuition of a racing line? <br>
 Publishing: LINK https://www.vrona.io/... COMING SOON
 
   > #### Abstract

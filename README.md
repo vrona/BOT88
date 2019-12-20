@@ -29,14 +29,14 @@ Min. 6 Core CPU, 1 Tesla M60 GPU<br>
 
 ### Project Flow
   - #### Data:
-  ##### Vision input: vrona_track_compviz.py<br>
+  ##### Vision input: track_compviz.py<br>
   script that captures on screen, sim-racing window and preprocessed to detected and highlighted lines. (regular folder)
                 
-  ##### Low level motion: low_level_motion_data_process_retrievement.ipynb and low_level_motion_demo.ipynb<br>
+  ##### Low level motion: <br>
   python client to retrieve data from Project Cars 2 API via shared memory.
                     
   ##### Racing line: display_of_racing_line_spainGP.ipynb<br>
-  retrieve ideal racing line data from manual driving.<br>
+  retrieve ideal racing line data from manual driving and preprocessed data for real-time matching with racing car motion.<br>
 
   - #### Development:
   ##### Controller: pilote.py and directkeys.py<br>
@@ -47,10 +47,3 @@ Min. 6 Core CPU, 1 Tesla M60 GPU<br>
                     
   ##### Agent: task.py, vision_physics.py, model.py, agent.py
   task, model, algorithm
-  
-### Test steps
-- After launching the game > change resolution to 800 x 635 in 'performances' option (needs to reboot game).<br>
-- After reboot, poised the window on the upper left (stick to top and left bound of the screen).<br>
-- Pick "private testing" in the menu.<br>
-- Launch the test drive until the control pass to manual (yellow flag)<br>
-- Run the 1st two cells of vrona_bot88.ipynb<br>

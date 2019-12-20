@@ -8,9 +8,9 @@ Initial development for my Udacity Capstone project within Machine Learning Nano
 Development more adapted to the problem to solve: how to build a simulated racing track driver that would learn to drive based on vision with the intuition of a racing line?
 Publishing: LINK https://www.vrona.io/... COMING SOON
 
-### Abstract
+#### Abstract
 
-Contextually, autonomous vehicle is a hot topic for years. The future of racing is a related topic on which mainly car manufacturers are trying to anticipate guided by software, energetic and safety developments.
+> Contextually, autonomous vehicle is a hot topic for years. The future of racing is a related topic on which mainly car    manufacturers are trying to anticipate guided by software, energetic and safety developments.
 Even though full autonomous technology is not yet widely accepted by day to day drivers, motor sports field acts as a full-scale lab and makes the advent of self-car driving even closer.
 Indeed, the launch in 2019 of Roborace Season Alpha sets autonomous racing standard and is a remarkable achievement.
 
@@ -35,7 +35,7 @@ Min. 6 Core CPU, 1 Tesla M60 GPU<br>
   ##### Low level motion: <br>
   python client to retrieve data from Project Cars 2 API via shared memory.
                     
-  ##### Racing line: display_of_racing_line_spainGP.ipynb<br>
+  ##### Racing line:<br>
   retrieve ideal racing line data from manual driving and preprocessed data for real-time matching with racing car motion.<br>
 
   - #### Development:

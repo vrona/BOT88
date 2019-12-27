@@ -5,8 +5,8 @@ Is a Self Driving Racing Car Agent Project.
 Initial development for my Udacity Capstone project within Machine Learning Nanodegree 2019 Certification.
 
 ### bot88_DDPG_asym_AC folder
-Development more adapted to the problem to solve: how to build a simulated racing track driver that would learn to drive based on vision with the intuition of a racing line? <br>
-Publishing: [vrona.io/bot88](https://www.vrona.io/fwp_portfolio/bot88/)
+Development more adapted to solve the problem : how to build a simulated racing track driver that would learn to drive based on vision with the intuition of a racing line? <br>
+BOT88 project's downloadable publishing: [vrona.io/bot88](https://www.vrona.io/fwp_portfolio/bot88/)
 
   > #### Abstract
   > Contextually, autonomous vehicle is a hot topic for years. The future of racing is a related topic on which mainly car    manufacturers are trying to anticipate guided by software, energetic and safety developments.

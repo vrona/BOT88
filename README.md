@@ -6,7 +6,7 @@ Initial development for my Udacity Capstone project within Machine Learning Nano
 
 ### bot88_DDPG_asym_AC folder
 Development more adapted to the problem to solve: how to build a simulated racing track driver that would learn to drive based on vision with the intuition of a racing line? <br>
-Publishing: LINK https://www.vrona.io/... COMING SOON
+Publishing: vrona.io/bot88
 
   > #### Abstract
   > Contextually, autonomous vehicle is a hot topic for years. The future of racing is a related topic on which mainly car    manufacturers are trying to anticipate guided by software, energetic and safety developments.

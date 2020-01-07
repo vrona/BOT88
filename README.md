@@ -1,9 +1,6 @@
 # BOT88
 Is a Self Driving Racing Car Agent Project. 
 
-### bot88_DDPG_regular_AC folder
-Initial development for my Udacity Capstone project within Machine Learning Nanodegree 2019 Certification.
-
 ### bot88_DDPG_asym_AC folder
 Development more adapted to solve the problem : how to build a simulated racing track driver that would learn to drive based on vision with the intuition of a racing line? <br>
 BOT88 project's downloadable publishing: [vrona.io/bot88](https://www.vrona.io/fwp_portfolio/bot88/)
@@ -13,6 +10,8 @@ BOT88 project's downloadable publishing: [vrona.io/bot88](https://www.vrona.io/f
 Even though full autonomous technology is not yet widely accepted by day to day drivers, motor sports field acts as a full-scale lab and makes the advent of self-car driving even closer.
 Indeed, the launch in 2019 of Roborace Season Alpha sets autonomous racing standard and is a remarkable achievement.
 
+### bot88_DDPG_regular_AC folder
+Initial development for my Udacity Capstone project within Machine Learning Nanodegree 2019 Certification.
 
 ### Project Description
 Building an agent based on deep reinforcement leaning (DDPG - Deep Deterministic Policy Gradient algorithm) which learns to drive a racing car on sim-racing title: Project cars 2 (racetrack: Barcelona Catalunya GP).
